@@ -9,7 +9,6 @@ public class HelloWorld {
 		System.out.println("...test.....");
 		Thread.sleep(1000);
 	}
-	@Aop
 	public static void test11() throws InterruptedException{
 		System.out.println("...test11.....");
 		Thread.sleep(1000);
